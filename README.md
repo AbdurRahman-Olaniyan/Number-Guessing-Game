@@ -41,3 +41,23 @@ An algorithm (as pseudocode or a list of steps) for a simple number guessing gam
 * Step 11: END 
 
 -- Program finishes execution
+
+## Improvements/Suggestions
+### How to Run the Game
+Clone the repository:
+'''bash
+git clone https://github.com/AbdurRahman-Olaniyan/Number-Guessing-Game.git
+Navigate to the project folder: cd Number-Guessing-Game
+Run the program(if the codes are available): python main.py
+
+### Features
+Randomly selects a number from 1 to 10
+Prompts the user to guess until correct
+Provides feedback if guess is too high or too low
+Loop exits when the correct number is guessed.
+
+### Next steps (Optional)
+Upgrading the number guessing game to 1-50
+Limit the number of guesses
+Add difficulty levels (easy, medium, hard)
+Provide hints after incorrect guesses
